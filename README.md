@@ -1,2 +1,3 @@
-# DS_Assifnment_no1
+# DS_Assifnment
+
 The basic question of python programming
